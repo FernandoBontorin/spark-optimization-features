@@ -1,0 +1,6 @@
+/.idea/
+/data/*
+/project/project/
+/project/target/
+/target/
+/airflow/logs/*
